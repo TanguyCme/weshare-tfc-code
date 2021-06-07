@@ -4,7 +4,7 @@ terraform {
     organization = "wescalefr"
 
     workspaces {
-      name = "tcombe"
+      name = "tco-tfc-code"
     }
   }
 }
